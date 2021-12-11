@@ -5,7 +5,9 @@
 Assalamu Alaikum Wa Rahmatullah. Welcome to the Crescent OS's Discussion Board on Github!
 
 ### You can -
-    - [Explore the Discussion Board](https://github.com/CrescentOS-repo/discussion-board/discussions)
+    - [Explore the Discussion Board](https://github.com/CrescentOS-repo/discussion-board/discussions/1)  
+    Or,   
+    - [Create a new discussion](https://github.com/CrescentOS-repo/discussion-board/discussions/new)
 
 ## For Other's Discussion Board
 
